@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "fb_url" : "https://facebook.com/mayur.lagad.129", 
+    "twitter_url" : "https://twitter.com/Mayru_rr",
+    "github_url" : "https://github.com/Mayru-rr",
+    "blog_name" : "Thunder Blog",
+    "no_of_posts": 2,
+    "login_image" : "login.svg",
+    "admin_user" : "mayur",
+    "admin_password" : "lagad",
+    "upload_location" : "C:\\Users\\ACER\\PycharmProjects\\flasky>"
+  }
+}
